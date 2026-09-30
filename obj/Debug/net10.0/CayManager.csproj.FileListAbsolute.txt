@@ -1,0 +1,17 @@
+/home/udesik/Documents/Scripts/CayManager/bin/Debug/net10.0/CayManager
+/home/udesik/Documents/Scripts/CayManager/bin/Debug/net10.0/CayManager.deps.json
+/home/udesik/Documents/Scripts/CayManager/bin/Debug/net10.0/CayManager.runtimeconfig.json
+/home/udesik/Documents/Scripts/CayManager/bin/Debug/net10.0/CayManager.dll
+/home/udesik/Documents/Scripts/CayManager/bin/Debug/net10.0/CayManager.pdb
+/home/udesik/Documents/Scripts/CayManager/obj/Debug/net10.0/CayManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/udesik/Documents/Scripts/CayManager/obj/Debug/net10.0/CayManager.AssemblyInfoInputs.cache
+/home/udesik/Documents/Scripts/CayManager/obj/Debug/net10.0/CayManager.AssemblyInfo.cs
+/home/udesik/Documents/Scripts/CayManager/obj/Debug/net10.0/CayManager.csproj.CoreCompileInputs.cache
+/home/udesik/Documents/Scripts/CayManager/obj/Debug/net10.0/CayManager.dll
+/home/udesik/Documents/Scripts/CayManager/obj/Debug/net10.0/refint/CayManager.dll
+/home/udesik/Documents/Scripts/CayManager/obj/Debug/net10.0/CayManager.pdb
+/home/udesik/Documents/Scripts/CayManager/obj/Debug/net10.0/CayManager.genruntimeconfig.cache
+/home/udesik/Documents/Scripts/CayManager/obj/Debug/net10.0/ref/CayManager.dll
+/home/udesik/Documents/Scripts/CayManager/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/udesik/Documents/Scripts/CayManager/obj/Debug/net10.0/CayManager.csproj.AssemblyReference.cache
+/home/udesik/Documents/Scripts/CayManager/obj/Debug/net10.0/CayManager.csproj.Up2Date
